@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-kthanigaivelan/branch/main/graph/badge.svg?token=A1lp9yiqj6)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-kthanigaivelan)
+
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
